@@ -1,0 +1,19 @@
+{
+  "name": "nftsurance",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "dat.gui": "^0.7.7",
+    "vite": "^2.8.0"
+  },
+  "dependencies": {
+    "gsap": "^3.9.1",
+    "live-server": "^1.2.1",
+    "smooth-scrollbar": "^8.7.4"
+  }
+}
